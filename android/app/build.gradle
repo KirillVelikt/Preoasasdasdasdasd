@@ -1,6 +1,0 @@
-plugins { id 'com.android.application' }
-android {
-    namespace 'com.sping.terminal'
-    compileSdk 35
-    defaultConfig { applicationId 'com.sping.terminal'; minSdk 23; targetSdk 35; versionCode 3; versionName '0.3' }
-}
